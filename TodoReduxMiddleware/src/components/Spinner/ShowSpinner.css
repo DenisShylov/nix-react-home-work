@@ -1,0 +1,7 @@
+.container__spinner {
+  position: relative;
+  top: 50px;
+  left: 300px;
+  height: 100px;
+  width: 100px;
+}
